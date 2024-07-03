@@ -1,0 +1,628 @@
+{
+  "companyOverview": {
+    "name": "Z Innovators Inc.",
+    "founder": "Afreedh Hanifa",
+    "founded": "2021-04-12",
+    "employees": 25,
+    "headquarters": "Theni - 625533, India",
+    "industry": "Information Technology"
+  },
+  "financials": {
+    "revenue": [
+      {
+        "month": "January",
+        "amount": 120000
+      },
+      {
+        "month": "February",
+        "amount": 135000
+      },
+      {
+        "month": "March",
+        "amount": 150000
+      },
+      {
+        "month": "April",
+        "amount": 145000
+      },
+      {
+        "month": "May",
+        "amount": 160000
+      },
+      {
+        "month": "June",
+        "amount": 155000
+      },
+      {
+        "month": "July",
+        "amount": 170000
+      },
+      {
+        "month": "August",
+        "amount": 165000
+      },
+      {
+        "month": "September",
+        "amount": 180000
+      },
+      {
+        "month": "October",
+        "amount": 175000
+      },
+      {
+        "month": "November",
+        "amount": 190000
+      },
+      {
+        "month": "December",
+        "amount": 200000
+      }
+    ],
+    "expenses": [
+      {
+        "month": "January",
+        "amount": 80000
+      },
+      {
+        "month": "February",
+        "amount": 85000
+      },
+      {
+        "month": "March",
+        "amount": 90000
+      },
+      {
+        "month": "April",
+        "amount": 87000
+      },
+      {
+        "month": "May",
+        "amount": 92000
+      },
+      {
+        "month": "June",
+        "amount": 91000
+      },
+      {
+        "month": "July",
+        "amount": 95000
+      },
+      {
+        "month": "August",
+        "amount": 94000
+      },
+      {
+        "month": "September",
+        "amount": 98000
+      },
+      {
+        "month": "October",
+        "amount": 97000
+      },
+      {
+        "month": "November",
+        "amount": 100000
+      },
+      {
+        "month": "December",
+        "amount": 105000
+      }
+    ],
+    "netIncome": [
+      {
+        "month": "January",
+        "amount": 40000
+      },
+      {
+        "month": "February",
+        "amount": 50000
+      },
+      {
+        "month": "March",
+        "amount": 60000
+      },
+      {
+        "month": "April",
+        "amount": 58000
+      },
+      {
+        "month": "May",
+        "amount": 68000
+      },
+      {
+        "month": "June",
+        "amount": 64000
+      },
+      {
+        "month": "July",
+        "amount": 75000
+      },
+      {
+        "month": "August",
+        "amount": 71000
+      },
+      {
+        "month": "September",
+        "amount": 82000
+      },
+      {
+        "month": "October",
+        "amount": 78000
+      },
+      {
+        "month": "November",
+        "amount": 90000
+      },
+      {
+        "month": "December",
+        "amount": 95000
+      }
+    ]
+  },
+  "customers": {
+    "totalCustomers": 1200,
+    "newCustomers": [
+      {
+        "month": "January",
+        "count": 50
+      },
+      {
+        "month": "February",
+        "count": 60
+      },
+      {
+        "month": "March",
+        "count": 70
+      },
+      {
+        "month": "April",
+        "count": 65
+      },
+      {
+        "month": "May",
+        "count": 80
+      },
+      {
+        "month": "June",
+        "count": 75
+      },
+      {
+        "month": "July",
+        "count": 90
+      },
+      {
+        "month": "August",
+        "count": 85
+      },
+      {
+        "month": "September",
+        "count": 100
+      },
+      {
+        "month": "October",
+        "count": 95
+      },
+      {
+        "month": "November",
+        "count": 110
+      },
+      {
+        "month": "December",
+        "count": 120
+      }
+    ],
+    "customerSatisfaction": [
+      {
+        "month": "January",
+        "score": 85
+      },
+      {
+        "month": "February",
+        "score": 86
+      },
+      {
+        "month": "March",
+        "score": 88
+      },
+      {
+        "month": "April",
+        "score": 87
+      },
+      {
+        "month": "May",
+        "score": 89
+      },
+      {
+        "month": "June",
+        "score": 90
+      },
+      {
+        "month": "July",
+        "score": 91
+      },
+      {
+        "month": "August",
+        "score": 92
+      },
+      {
+        "month": "September",
+        "score": 93
+      },
+      {
+        "month": "October",
+        "score": 94
+      },
+      {
+        "month": "November",
+        "score": 95
+      },
+      {
+        "month": "December",
+        "score": 96
+      }
+    ]
+  },
+  "projects": {
+    "activeProjects": 10,
+    "completedProjects": 25,
+    "projectStatuses": [
+      {
+        "name": "Project A",
+        "status": "In Progress",
+        "completion": 70
+      },
+      {
+        "name": "Project B",
+        "status": "In Progress",
+        "completion": 50
+      },
+      {
+        "name": "Project C",
+        "status": "Completed",
+        "completion": 100
+      },
+      {
+        "name": "Project D",
+        "status": "In Progress",
+        "completion": 80
+      },
+      {
+        "name": "Project E",
+        "status": "Not Started",
+        "completion": 0
+      },
+      {
+        "name": "Project F",
+        "status": "Completed",
+        "completion": 100
+      },
+      {
+        "name": "Project G",
+        "status": "In Progress",
+        "completion": 60
+      },
+      {
+        "name": "Project H",
+        "status": "Not Started",
+        "completion": 0
+      },
+      {
+        "name": "Project I",
+        "status": "In Progress",
+        "completion": 40
+      },
+      {
+        "name": "Project J",
+        "status": "Completed",
+        "completion": 100
+      }
+    ]
+  },
+  "products": [
+    {
+      "name": "Z Commerce",
+      "releaseDate": "2022-03-15",
+      "revenue": 500000,
+      "RegisteredUsers": 10000,
+      "image": "https://z-commerce-dev.vercel.app/assets/image/favicon.png",
+      "productUrl": "https://z-commerce-dev.vercel.app"
+    },
+    {
+      "name": "Z Recipes",
+      "releaseDate": "2023-07-20",
+      "revenue": "NA",
+      "RegisteredUsers": 7000,
+      "image": "https://z-recipes-dev.vercel.app/assets/images/logo.png",
+      "productUrl": "https://z-recipes-dev.vercel.app"
+    }
+  ],
+  "employeeData": {
+    "totalEmployees": 25,
+    "topPerformers": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "role": "Software Engineer",
+        "performanceScore": 95,
+        "professionalEmail": "john.doe@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Emily Johnson",
+        "role": "UI/UX Designer",
+        "performanceScore": 92,
+        "professionalEmail": "emily.johnson@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/3.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Joseph Wright",
+        "role": "Data Scientist",
+        "performanceScore": 92,
+        "professionalEmail": "joseph.wright@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/20.jpg"
+      }
+    ],
+    "averagePerformanceScore": 85,
+    "performanceByDepartment": {
+      "Engineering": 88,
+      "Marketing": 80,
+      "Sales": 84,
+      "HR": 82,
+      "Finance": 86
+    },
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "role": "Software Engineer",
+        "performanceScore": 95,
+        "yearsOfExperience": 5,
+        "professionalEmail": "john.doe@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+        "salaryLpa": 805664
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "role": "Project Manager",
+        "performanceScore": 90,
+        "yearsOfExperience": 7,
+        "professionalEmail": "jane.smith@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+        "salaryLpa": 1258850
+      },
+      {
+        "id": 3,
+        "name": "Emily Johnson",
+        "role": "UI/UX Designer",
+        "performanceScore": 92,
+        "yearsOfExperience": 6,
+        "professionalEmail": "emily.johnson@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/3.jpg",
+        "salaryLpa": 1007080
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "role": "DevOps Engineer",
+        "performanceScore": 88,
+        "yearsOfExperience": 4,
+        "professionalEmail": "michael.brown@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/4.jpg",
+        "salaryLpa": 644531
+      },
+      {
+        "id": 5,
+        "name": "Laura Wilson",
+        "role": "Software Engineer",
+        "performanceScore": 87,
+        "yearsOfExperience": 3,
+        "professionalEmail": "laura.wilson@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+        "salaryLpa": 429687
+      },
+      {
+        "id": 6,
+        "name": "Daniel Lee",
+        "role": "Product Manager",
+        "performanceScore": 89,
+        "yearsOfExperience": 8,
+        "professionalEmail": "daniel.lee@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/6.jpg",
+        "salaryLpa": 1573562
+      },
+      {
+        "id": 7,
+        "name": "Sarah Davis",
+        "role": "Marketing Specialist",
+        "performanceScore": 85,
+        "yearsOfExperience": 5,
+        "professionalEmail": "sarah.davis@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/7.jpg",
+        "salaryLpa": 805664
+      },
+      {
+        "id": 8,
+        "name": "David Martinez",
+        "role": "Data Analyst",
+        "performanceScore": 86,
+        "yearsOfExperience": 4,
+        "professionalEmail": "david.martinez@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/8.jpg",
+        "salaryLpa": 644531
+      },
+      {
+        "id": 9,
+        "name": "Jessica Garcia",
+        "role": "Sales Manager",
+        "performanceScore": 84,
+        "yearsOfExperience": 6,
+        "professionalEmail": "jessica.garcia@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/9.jpg",
+        "salaryLpa": 1007080
+      },
+      {
+        "id": 10,
+        "name": "James Robinson",
+        "role": "Customer Support",
+        "performanceScore": 83,
+        "yearsOfExperience": 3,
+        "professionalEmail": "james.robinson@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/10.jpg",
+        "salaryLpa": 429687
+      },
+      {
+        "id": 11,
+        "name": "Elizabeth Clark",
+        "role": "HR Specialist",
+        "performanceScore": 82,
+        "yearsOfExperience": 4,
+        "professionalEmail": "elizabeth.clark@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/11.jpg",
+        "salaryLpa": 644531
+      },
+      {
+        "id": 12,
+        "name": "Robert Rodriguez",
+        "role": "Software Engineer",
+        "performanceScore": 91,
+        "yearsOfExperience": 5,
+        "professionalEmail": "robert.rodriguez@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+        "salaryLpa": 805664
+      },
+      {
+        "id": 13,
+        "name": "Mary Lewis",
+        "role": "Account Manager",
+        "performanceScore": 87,
+        "yearsOfExperience": 6,
+        "professionalEmail": "mary.lewis@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/13.jpg",
+        "salaryLpa": 1007080
+      },
+      {
+        "id": 14,
+        "name": "William Walker",
+        "role": "Finance Analyst",
+        "performanceScore": 86,
+        "yearsOfExperience": 4,
+        "professionalEmail": "william.walker@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/14.jpg",
+        "salaryLpa": 644531
+      },
+      {
+        "id": 15,
+        "name": "Linda Hall",
+        "role": "Marketing Manager",
+        "performanceScore": 85,
+        "yearsOfExperience": 7,
+        "professionalEmail": "linda.hall@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/15.jpg",
+        "salaryLpa": 1258850
+      },
+      {
+        "id": 16,
+        "name": "Christopher Allen",
+        "role": "IT Support",
+        "performanceScore": 84,
+        "yearsOfExperience": 3,
+        "professionalEmail": "christopher.allen@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/16.jpg",
+        "salaryLpa": 429687
+      },
+      {
+        "id": 17,
+        "name": "Patricia Young",
+        "role": "UI/UX Designer",
+        "performanceScore": 89,
+        "yearsOfExperience": 5,
+        "professionalEmail": "patricia.young@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/17.jpg",
+        "salaryLpa": 805664
+      },
+      {
+        "id": 18,
+        "name": "Thomas Hernandez",
+        "role": "Software Engineer",
+        "performanceScore": 88,
+        "yearsOfExperience": 4,
+        "professionalEmail": "thomas.hernandez@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+        "salaryLpa": 644531
+      },
+      {
+        "id": 19,
+        "name": "Barbara King",
+        "role": "Project Coordinator",
+        "performanceScore": 90,
+        "yearsOfExperience": 7,
+        "professionalEmail": "barbara.king@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/19.jpg",
+        "salaryLpa": 1258850
+      },
+      {
+        "id": 20,
+        "name": "Joseph Wright",
+        "role": "Data Scientist",
+        "performanceScore": 92,
+        "yearsOfExperience": 6,
+        "professionalEmail": "joseph.wright@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/20.jpg",
+        "salaryLpa": 1007080
+      },
+      {
+        "id": 21,
+        "name": "Susan Lopez",
+        "role": "Product Designer",
+        "performanceScore": 87,
+        "yearsOfExperience": 5,
+        "professionalEmail": "susan.lopez@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/21.jpg",
+        "salaryLpa": 805664
+      },
+      {
+        "id": 22,
+        "name": "Charles Hill",
+        "role": "Software Engineer",
+        "performanceScore": 86,
+        "yearsOfExperience": 4,
+        "professionalEmail": "charles.hill@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/22.jpg",
+        "salaryLpa": 644531
+      },
+      {
+        "id": 23,
+        "name": "Margaret Scott",
+        "role": "Finance Manager",
+        "performanceScore": 85,
+        "yearsOfExperience": 8,
+        "professionalEmail": "margaret.scott@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/23.jpg",
+        "salaryLpa": 1573562
+      },
+      {
+        "id": 24,
+        "name": "Steven Green",
+        "role": "HR Manager",
+        "performanceScore": 84,
+        "yearsOfExperience": 7,
+        "professionalEmail": "steven.green@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/24.jpg",
+        "salaryLpa": 1258850
+      },
+      {
+        "id": 25,
+        "name": "Lisa Adams",
+        "role": "Customer Success Manager",
+        "performanceScore": 83,
+        "yearsOfExperience": 6,
+        "professionalEmail": "steven.green@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/25.jpg",
+        "salaryLpa": 1007080
+      }
+    ]
+  }
+}
