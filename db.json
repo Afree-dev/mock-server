@@ -373,256 +373,332 @@
       "Finance": 86
     },
     "employees": [
-      {
+    {
         "id": 1,
         "name": "John Doe",
-        "role": "Software Engineer",
+        "role": "Admin",
+        "designation": "System and Finance Admin",
         "performanceScore": 95,
         "yearsOfExperience": 5,
         "professionalEmail": "john.doe@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
-        "salaryLpa": 805664
-      },
-      {
+        "salaryLpa": 805664,
+        "password": "zInc@01",
+        "gender": "Male"
+    },
+    {
         "id": 2,
         "name": "Jane Smith",
-        "role": "Project Manager",
+        "role": "Employee",
+        "designation": "Project Manager",
         "performanceScore": 90,
         "yearsOfExperience": 7,
         "professionalEmail": "jane.smith@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
-        "salaryLpa": 1258850
-      },
-      {
+        "salaryLpa": 1258850,
+        "password": "zInc@02",
+        "gender": "Female"
+    },
+    {
         "id": 3,
         "name": "Emily Johnson",
-        "role": "UI/UX Designer",
+        "role": "Employee",
+        "designation": "UI/UX Designer",
         "performanceScore": 92,
         "yearsOfExperience": 6,
         "professionalEmail": "emily.johnson@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/3.jpg",
-        "salaryLpa": 1007080
-      },
-      {
+        "salaryLpa": 1007080,
+        "password": "zInc@03",
+        "gender": "Female"
+    },
+    {
         "id": 4,
         "name": "Michael Brown",
-        "role": "DevOps Engineer",
+        "role": "Employee",
+        "designation": "DevOps Engineer",
         "performanceScore": 88,
         "yearsOfExperience": 4,
         "professionalEmail": "michael.brown@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/4.jpg",
-        "salaryLpa": 644531
-      },
-      {
+        "salaryLpa": 644531,
+        "password": "zInc@04",
+        "gender": "Male"
+    },
+    {
         "id": 5,
         "name": "Laura Wilson",
-        "role": "Software Engineer",
+        "role": "Employee",
+        "designation": "Software Engineer",
         "performanceScore": 87,
         "yearsOfExperience": 3,
         "professionalEmail": "laura.wilson@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
-        "salaryLpa": 429687
-      },
-      {
+        "salaryLpa": 429687,
+        "password": "zInc@05",
+        "gender": "Female"
+    },
+    {
         "id": 6,
         "name": "Daniel Lee",
-        "role": "Product Manager",
+        "role": "Employee",
+        "designation": "Product Manager",
         "performanceScore": 89,
         "yearsOfExperience": 8,
         "professionalEmail": "daniel.lee@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/6.jpg",
-        "salaryLpa": 1573562
-      },
-      {
+        "salaryLpa": 1573562,
+        "password": "zInc@06",
+        "gender": "Male"
+    },
+    {
         "id": 7,
         "name": "Sarah Davis",
-        "role": "Marketing Specialist",
+        "role": "Employee",
+        "designation": "Marketing Specialist",
         "performanceScore": 85,
         "yearsOfExperience": 5,
         "professionalEmail": "sarah.davis@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/7.jpg",
-        "salaryLpa": 805664
-      },
-      {
+        "salaryLpa": 805664,
+        "password": "zInc@07",
+        "gender": "Female"
+    },
+    {
         "id": 8,
         "name": "David Martinez",
-        "role": "Data Analyst",
+        "role": "Employee",
+        "designation": "Data Analyst",
         "performanceScore": 86,
         "yearsOfExperience": 4,
         "professionalEmail": "david.martinez@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/8.jpg",
-        "salaryLpa": 644531
-      },
-      {
+        "salaryLpa": 644531,
+        "password": "zInc@08",
+        "gender": "Male"
+    },
+    {
         "id": 9,
         "name": "Jessica Garcia",
-        "role": "Sales Manager",
+        "role": "Employee",
+        "designation": "Sales Manager",
         "performanceScore": 84,
         "yearsOfExperience": 6,
         "professionalEmail": "jessica.garcia@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/9.jpg",
-        "salaryLpa": 1007080
-      },
-      {
+        "salaryLpa": 1007080,
+        "password": "zInc@09",
+        "gender": "Female"
+    },
+    {
         "id": 10,
         "name": "James Robinson",
-        "role": "Customer Support",
+        "role": "Employee",
+        "designation": "Customer Support",
         "performanceScore": 83,
         "yearsOfExperience": 3,
         "professionalEmail": "james.robinson@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/10.jpg",
-        "salaryLpa": 429687
-      },
-      {
+        "salaryLpa": 429687,
+        "password": "zInc@10",
+        "gender": "Male"
+    },
+    {
         "id": 11,
         "name": "Elizabeth Clark",
-        "role": "HR Specialist",
+        "role": "Hr",
+        "designation": "HR Manager",
         "performanceScore": 82,
         "yearsOfExperience": 4,
         "professionalEmail": "elizabeth.clark@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/11.jpg",
-        "salaryLpa": 644531
-      },
-      {
+        "salaryLpa": 644531,
+        "password": "zInc@11",
+        "gender": "Female"
+    },
+    {
         "id": 12,
         "name": "Robert Rodriguez",
-        "role": "Software Engineer",
+        "role": "Employee",
+        "designation": "Software Engineer",
         "performanceScore": 91,
         "yearsOfExperience": 5,
         "professionalEmail": "robert.rodriguez@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
-        "salaryLpa": 805664
-      },
-      {
+        "salaryLpa": 805664,
+        "password": "zInc@12",
+        "gender": "Male"
+    },
+    {
         "id": 13,
         "name": "Mary Lewis",
-        "role": "Account Manager",
+        "role": "Employee",
+        "designation": "Account Manager",
         "performanceScore": 87,
         "yearsOfExperience": 6,
         "professionalEmail": "mary.lewis@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/13.jpg",
-        "salaryLpa": 1007080
-      },
-      {
+        "salaryLpa": 1007080,
+        "password": "zInc@13",
+        "gender": "Female"
+    },
+    {
         "id": 14,
         "name": "William Walker",
-        "role": "Finance Analyst",
+        "role": "Moderator",
+        "designation": "Moderator",
         "performanceScore": 86,
         "yearsOfExperience": 4,
         "professionalEmail": "william.walker@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/14.jpg",
-        "salaryLpa": 644531
-      },
-      {
+        "salaryLpa": 644531,
+        "password": "zInc@14",
+        "gender": "Male"
+    },
+    {
         "id": 15,
         "name": "Linda Hall",
-        "role": "Marketing Manager",
+        "role": "Employee",
+        "designation": "Marketing Manager",
         "performanceScore": 85,
         "yearsOfExperience": 7,
         "professionalEmail": "linda.hall@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/15.jpg",
-        "salaryLpa": 1258850
-      },
-      {
+        "salaryLpa": 1258850,
+        "password": "zInc@15",
+        "gender": "Female"
+    },
+    {
         "id": 16,
         "name": "Christopher Allen",
-        "role": "IT Support",
+        "role": "Employee",
+        "designation": "IT Support",
         "performanceScore": 84,
         "yearsOfExperience": 3,
         "professionalEmail": "christopher.allen@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/16.jpg",
-        "salaryLpa": 429687
-      },
-      {
+        "salaryLpa": 429687,
+        "password": "zInc@16",
+        "gender": "Male"
+    },
+    {
         "id": 17,
         "name": "Patricia Young",
-        "role": "UI/UX Designer",
+        "role": "Employee",
+        "designation": "UI/UX Designer",
         "performanceScore": 89,
         "yearsOfExperience": 5,
         "professionalEmail": "patricia.young@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/17.jpg",
-        "salaryLpa": 805664
-      },
-      {
+        "salaryLpa": 805664,
+        "password": "zInc@17",
+        "gender": "Female"
+    },
+    {
         "id": 18,
         "name": "Thomas Hernandez",
-        "role": "Software Engineer",
+        "role": "Employee",
+        "designation": "Software Engineer",
         "performanceScore": 88,
         "yearsOfExperience": 4,
         "professionalEmail": "thomas.hernandez@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
-        "salaryLpa": 644531
-      },
-      {
+        "salaryLpa": 644531,
+        "password": "zInc@18",
+        "gender": "Male"
+    },
+    {
         "id": 19,
         "name": "Barbara King",
-        "role": "Project Coordinator",
+        "role": "Employee",
+        "designation": "Project Coordinator",
         "performanceScore": 90,
         "yearsOfExperience": 7,
         "professionalEmail": "barbara.king@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/19.jpg",
-        "salaryLpa": 1258850
-      },
-      {
+        "salaryLpa": 1258850,
+        "password": "zInc@19",
+        "gender": "Female"
+    },
+    {
         "id": 20,
         "name": "Joseph Wright",
-        "role": "Data Scientist",
+        "role": "Employee",
+        "designation": "Data Scientist",
         "performanceScore": 92,
         "yearsOfExperience": 6,
         "professionalEmail": "joseph.wright@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/20.jpg",
-        "salaryLpa": 1007080
-      },
-      {
+        "salaryLpa": 1007080,
+        "password": "zInc@20",
+        "gender": "Male"
+    },
+    {
         "id": 21,
         "name": "Susan Lopez",
-        "role": "Product Designer",
+        "role": "Employee",
+        "designation": "Product Designer",
         "performanceScore": 87,
         "yearsOfExperience": 5,
         "professionalEmail": "susan.lopez@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/21.jpg",
-        "salaryLpa": 805664
-      },
-      {
+        "salaryLpa": 805664,
+        "password": "zInc@21",
+        "gender": "Female"
+    },
+    {
         "id": 22,
         "name": "Charles Hill",
-        "role": "Software Engineer",
+        "role": "Employee",
+        "designation": "Software Engineer",
         "performanceScore": 86,
         "yearsOfExperience": 4,
         "professionalEmail": "charles.hill@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/22.jpg",
-        "salaryLpa": 644531
-      },
-      {
+        "salaryLpa": 644531,
+        "password": "zInc@22",
+        "gender": "Male"
+    },
+    {
         "id": 23,
         "name": "Margaret Scott",
-        "role": "Finance Manager",
+        "role": "Employee",
+        "designation": "Scrum Master",
         "performanceScore": 85,
         "yearsOfExperience": 8,
         "professionalEmail": "margaret.scott@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/23.jpg",
-        "salaryLpa": 1573562
-      },
-      {
+        "salaryLpa": 1573562,
+        "password": "zInc@23",
+        "gender": "Female"
+    },
+    {
         "id": 24,
         "name": "Steven Green",
-        "role": "HR Manager",
+        "role": "Employee",
+        "designation": "Scrum Master",
         "performanceScore": 84,
         "yearsOfExperience": 7,
         "professionalEmail": "steven.green@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/24.jpg",
-        "salaryLpa": 1258850
-      },
-      {
+        "salaryLpa": 1258850,
+        "password": "zInc@24",
+        "gender": "Male"
+    },
+    {
         "id": 25,
         "name": "Lisa Adams",
-        "role": "Customer Success Manager",
+        "role": "Employee",
+        "designation": "Customer Success Manager",
         "performanceScore": 83,
         "yearsOfExperience": 6,
-        "professionalEmail": "steven.green@zinnovators.com",
-        "profileImage": "https://randomuser.me/api/portraits/men/25.jpg",
-        "salaryLpa": 1007080
-      }
-    ]
+        "professionalEmail": "lisa.adams@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/25.jpg",
+        "salaryLpa": 1007080,
+        "password": "zInc@25",
+        "gender": "Female"
+    }
+]
+
   }
 }
