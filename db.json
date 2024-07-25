@@ -373,7 +373,7 @@
       "Finance": 86
     },
     "employees": [
-    {
+      {
         "id": 1,
         "name": "John Doe",
         "role": "Admin",
@@ -384,9 +384,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
         "salaryLpa": 805664,
         "password": "zInc@01",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "a1b2c3"
+      },
+      {
         "id": 2,
         "name": "Jane Smith",
         "role": "Employee",
@@ -397,9 +398,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
         "salaryLpa": 1258850,
         "password": "zInc@02",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "d4e5f6"
+      },
+      {
         "id": 3,
         "name": "Emily Johnson",
         "role": "Employee",
@@ -410,9 +412,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/3.jpg",
         "salaryLpa": 1007080,
         "password": "zInc@03",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "g7h8i9"
+      },
+      {
         "id": 4,
         "name": "Michael Brown",
         "role": "Employee",
@@ -423,9 +426,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/4.jpg",
         "salaryLpa": 644531,
         "password": "zInc@04",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "j0k1l2"
+      },
+      {
         "id": 5,
         "name": "Laura Wilson",
         "role": "Employee",
@@ -436,9 +440,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
         "salaryLpa": 429687,
         "password": "zInc@05",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "m3n4o5"
+      },
+      {
         "id": 6,
         "name": "Daniel Lee",
         "role": "Employee",
@@ -449,9 +454,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/6.jpg",
         "salaryLpa": 1573562,
         "password": "zInc@06",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "p6q7r8"
+      },
+      {
         "id": 7,
         "name": "Sarah Davis",
         "role": "Employee",
@@ -462,9 +468,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/7.jpg",
         "salaryLpa": 805664,
         "password": "zInc@07",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "s9t0u1"
+      },
+      {
         "id": 8,
         "name": "David Martinez",
         "role": "Employee",
@@ -475,9 +482,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/8.jpg",
         "salaryLpa": 644531,
         "password": "zInc@08",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "v2w3x4"
+      },
+      {
         "id": 9,
         "name": "Jessica Garcia",
         "role": "Employee",
@@ -488,9 +496,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/9.jpg",
         "salaryLpa": 1007080,
         "password": "zInc@09",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "y5z6a7"
+      },
+      {
         "id": 10,
         "name": "James Robinson",
         "role": "Employee",
@@ -501,9 +510,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/10.jpg",
         "salaryLpa": 429687,
         "password": "zInc@10",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "b8c9d0"
+      },
+      {
         "id": 11,
         "name": "Elizabeth Clark",
         "role": "Hr",
@@ -514,9 +524,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/11.jpg",
         "salaryLpa": 644531,
         "password": "zInc@11",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "e1f2g3"
+      },
+      {
         "id": 12,
         "name": "Robert Rodriguez",
         "role": "Employee",
@@ -527,9 +538,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
         "salaryLpa": 805664,
         "password": "zInc@12",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "h4i5j6"
+      },
+      {
         "id": 13,
         "name": "Mary Lewis",
         "role": "Employee",
@@ -540,9 +552,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/13.jpg",
         "salaryLpa": 1007080,
         "password": "zInc@13",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "k7l8m9"
+      },
+      {
         "id": 14,
         "name": "William Walker",
         "role": "Moderator",
@@ -553,9 +566,10 @@
         "profileImage": "https://randomuser.me/api/portraits/men/14.jpg",
         "salaryLpa": 644531,
         "password": "zInc@14",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "n0o1p2"
+      },
+      {
         "id": 15,
         "name": "Linda Hall",
         "role": "Employee",
@@ -566,9 +580,10 @@
         "profileImage": "https://randomuser.me/api/portraits/women/15.jpg",
         "salaryLpa": 1258850,
         "password": "zInc@15",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "q3r4s5"
+      },
+      {
         "id": 16,
         "name": "Christopher Allen",
         "role": "Employee",
@@ -579,126 +594,135 @@
         "profileImage": "https://randomuser.me/api/portraits/men/16.jpg",
         "salaryLpa": 429687,
         "password": "zInc@16",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "t6u7v8"
+      },
+      {
         "id": 17,
-        "name": "Patricia Young",
+        "name": "Barbara Young",
         "role": "Employee",
-        "designation": "UI/UX Designer",
+        "designation": "Sales Associate",
+        "performanceScore": 83,
+        "yearsOfExperience": 2,
+        "professionalEmail": "barbara.young@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/17.jpg",
+        "salaryLpa": 300000,
+        "password": "zInc@17",
+        "gender": "Female",
+        "authToken": "w9x0y1"
+      },
+      {
+        "id": 18,
+        "name": "James Hernandez",
+        "role": "Employee",
+        "designation": "Graphic Designer",
         "performanceScore": 89,
         "yearsOfExperience": 5,
-        "professionalEmail": "patricia.young@zinnovators.com",
-        "profileImage": "https://randomuser.me/api/portraits/women/17.jpg",
-        "salaryLpa": 805664,
-        "password": "zInc@17",
-        "gender": "Female"
-    },
-    {
-        "id": 18,
-        "name": "Thomas Hernandez",
-        "role": "Employee",
-        "designation": "Software Engineer",
-        "performanceScore": 88,
-        "yearsOfExperience": 4,
-        "professionalEmail": "thomas.hernandez@zinnovators.com",
+        "professionalEmail": "james.hernandez@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
-        "salaryLpa": 644531,
+        "salaryLpa": 805664,
         "password": "zInc@18",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "z2a3b4"
+      },
+      {
         "id": 19,
-        "name": "Barbara King",
+        "name": "Patricia King",
         "role": "Employee",
-        "designation": "Project Coordinator",
-        "performanceScore": 90,
-        "yearsOfExperience": 7,
-        "professionalEmail": "barbara.king@zinnovators.com",
+        "designation": "Content Writer",
+        "performanceScore": 87,
+        "yearsOfExperience": 4,
+        "professionalEmail": "patricia.king@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/19.jpg",
-        "salaryLpa": 1258850,
+        "salaryLpa": 644531,
         "password": "zInc@19",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "c5d6e7"
+      },
+      {
         "id": 20,
-        "name": "Joseph Wright",
+        "name": "Charles Lopez",
         "role": "Employee",
-        "designation": "Data Scientist",
-        "performanceScore": 92,
+        "designation": "HR Specialist",
+        "performanceScore": 85,
         "yearsOfExperience": 6,
-        "professionalEmail": "joseph.wright@zinnovators.com",
+        "professionalEmail": "charles.lopez@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/20.jpg",
         "salaryLpa": 1007080,
         "password": "zInc@20",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "f8g9h0"
+      },
+      {
         "id": 21,
-        "name": "Susan Lopez",
+        "name": "Nancy Parker",
         "role": "Employee",
-        "designation": "Product Designer",
-        "performanceScore": 87,
+        "designation": "Business Analyst",
+        "performanceScore": 88,
         "yearsOfExperience": 5,
-        "professionalEmail": "susan.lopez@zinnovators.com",
+        "professionalEmail": "nancy.parker@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/21.jpg",
         "salaryLpa": 805664,
         "password": "zInc@21",
-        "gender": "Female"
-    },
-    {
+        "gender": "Female",
+        "authToken": "i0j1k2"
+      },
+      {
         "id": 22,
-        "name": "Charles Hill",
+        "name": "Paul Harris",
         "role": "Employee",
-        "designation": "Software Engineer",
+        "designation": "SEO Specialist",
         "performanceScore": 86,
         "yearsOfExperience": 4,
-        "professionalEmail": "charles.hill@zinnovators.com",
+        "professionalEmail": "paul.harris@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/men/22.jpg",
         "salaryLpa": 644531,
         "password": "zInc@22",
-        "gender": "Male"
-    },
-    {
+        "gender": "Male",
+        "authToken": "l3m4n5"
+      },
+      {
         "id": 23,
-        "name": "Margaret Scott",
+        "name": "Karen Martinez",
         "role": "Employee",
-        "designation": "Scrum Master",
-        "performanceScore": 85,
-        "yearsOfExperience": 8,
-        "professionalEmail": "margaret.scott@zinnovators.com",
-        "profileImage": "https://randomuser.me/api/portraits/women/23.jpg",
-        "salaryLpa": 1573562,
-        "password": "zInc@23",
-        "gender": "Female"
-    },
-    {
-        "id": 24,
-        "name": "Steven Green",
-        "role": "Employee",
-        "designation": "Scrum Master",
-        "performanceScore": 84,
+        "designation": "Operations Manager",
+        "performanceScore": 90,
         "yearsOfExperience": 7,
-        "professionalEmail": "steven.green@zinnovators.com",
-        "profileImage": "https://randomuser.me/api/portraits/men/24.jpg",
+        "professionalEmail": "karen.martinez@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/women/23.jpg",
         "salaryLpa": 1258850,
-        "password": "zInc@24",
-        "gender": "Male"
-    },
-    {
-        "id": 25,
-        "name": "Lisa Adams",
+        "password": "zInc@23",
+        "gender": "Female",
+        "authToken": "o6p7q8"
+      },
+      {
+        "id": 24,
+        "name": "Edward Moore",
         "role": "Employee",
-        "designation": "Customer Success Manager",
-        "performanceScore": 83,
-        "yearsOfExperience": 6,
-        "professionalEmail": "lisa.adams@zinnovators.com",
+        "designation": "Network Engineer",
+        "performanceScore": 87,
+        "yearsOfExperience": 5,
+        "professionalEmail": "edward.moore@zinnovators.com",
+        "profileImage": "https://randomuser.me/api/portraits/men/24.jpg",
+        "salaryLpa": 805664,
+        "password": "zInc@24",
+        "gender": "Male",
+        "authToken": "r9s0t1"
+      },
+      {
+        "id": 25,
+        "name": "Stephanie Wright",
+        "role": "Employee",
+        "designation": "HR Specialist",
+        "performanceScore": 85,
+        "yearsOfExperience": 3,
+        "professionalEmail": "stephanie.wright@zinnovators.com",
         "profileImage": "https://randomuser.me/api/portraits/women/25.jpg",
-        "salaryLpa": 1007080,
+        "salaryLpa": 429687,
         "password": "zInc@25",
-        "gender": "Female"
-    }
-]
-
+        "gender": "Female",
+        "authToken": "u2v3w4"
+      }
+    ]
   }
 }
