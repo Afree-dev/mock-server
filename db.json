@@ -1,12 +1,4 @@
 {
-  "companyOverview": {
-    "name": "Z Innovators Inc.",
-    "founder": "Afreedh Hanifa",
-    "founded": "2021-04-12",
-    "employees": 25,
-    "headquarters": "Theni - 625533, India",
-    "industry": "Information Technology"
-  },
   "financials": {
     "revenue": [
       {
@@ -261,7 +253,6 @@
         "profileImage": "https://randomuser.me/api/portraits/men/20.jpg"
       }
     ],
-    "averagePerformanceScore": 85,
     "performanceByDepartment": {
       "Engineering": 88,
       "Marketing": 80,
